@@ -1,67 +1,42 @@
-ï»¿Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
-15/03/2021 21:45,Liga Pro,Igor Mihaylov,Vladimir Belyakov,Igor Mihaylov,3,Vladimir Belyakov,01-Mar,0,1
-15/03/2021 22:15,TT Cup Ukraine,Andrey Guchok,Igor Demchuk,Andrey Guchok,3.25,Andrey Guchok,03-Jan,3.25,1
-15/03/2021 23:00,TT Cup Ukraine,Yaroslav Vorsuliak,Oleg Savenkov,Oleg Savenkov,4,Yaroslav Vorsuliak,3-0,0,1
-15/03/2021 23:35,TT Cup Ukraine,Stepan Nykyforuk,Yevhenii Faflei,Yevhenii Faflei,2.75,Yevhenii Faflei,0-3,2.75,1
-16/03/2021 01:20,TT Cup Ukraine,Vasyl Aksenin,Yevhenii Faflei,Yevhenii Faflei,3.4,Vasyl Aksenin,3-0,0,1
-16/03/2021 01:55,Setka Cup,Andrii Shcherbak,Borys Kostiuk,Andrii Shcherbak,3.25,Andrii Shcherbak,3-0,3.25,1
-16/03/2021 02:55,Setka Cup,Hryhorii Kulishov,Borys Kostiuk,Hryhorii Kulishov,4,Borys Kostiuk,01-Mar,0,1
-16/03/2021 03:05,TT Cup Ukraine,Yaroslav Vorsuliak,Yevhenii Faflei,Yevhenii Faflei,4.333,Yaroslav Vorsuliak,03-Jan,0,1
-16/03/2021 04:15,TT Cup Ukraine,Yevhenii Faflei,Oleg Savenkov,Yevhenii Faflei,2.75,Yevhenii Faflei,3-0,2.75,1
-16/03/2021 06:10,Setka Cup,Roman Zholubak,Anatolii Levshyn,Anatolii Levshyn,4.333,Roman Zholubak,03-Jan,0,1
-16/03/2021 07:10,Setka Cup,Nikolay Kornienko,Anatolii Levshyn,Anatolii Levshyn,4.5,Nikolay Kornienko,03-Feb,0,1
-16/03/2021 07:55,TT Cup Ukraine,Anton Shipilov,Sergey Gilitukha,Sergey Gilitukha,4.333,Anton Shipilov,3-0,0,1
-16/03/2021 09:45,TT Star Series,David Prusa,Miroslav Horejsi,David Prusa,8.5,Miroslav Horejsi,01-Mar,0,1
-16/03/2021 11:45,TT Star Series,Patrik Klos,Michal Blinka,Michal Blinka,2.375,Patrik Klos,03-Feb,0,1
-16/03/2021 12:45,TT Star Series,David Prusa,Dmitrij Prokopcov,David Prusa,8.5,Dmitrij Prokopcov,0-3,0,1
-16/03/2021 15:40,Setka Cup,Andrii Melchenko,Nazar Kasianyk,Nazar Kasianyk,2.75,Nazar Kasianyk,0-3,2.75,1
-16/03/2021 16:40,Setka Cup,Yevhen Skorobahatyi,Andrii Melchenko,Andrii Melchenko,3,Andrii Melchenko,0-3,3,1
-16/03/2021 18:30,Setka Cup,Sergii Skhabitskiy,Bohdan Havryliuk,Sergii Skhabitskiy,3,Sergii Skhabitskiy,03-Feb,3,1
-16/03/2021 20:00,Setka Cup,Vadim Kazmirchuk,Viktor Bereza,Viktor Bereza,3.25,Vadim Kazmirchuk,3-0,0,1
-16/03/2021 13:25,TT Cup Ukraine,Oleksandr Kovalov,Anatolii Yakovenko,Anatolii Yakovenko,2.75,Anatolii Yakovenko,02-Mar,2.75,1
-16/03/2021 17:05,Setka Cup,Borys Kostiuk,Hryhorii Kulishov,Hryhorii Kulishov,3.25,Hryhorii Kulishov,0-3,3.25,1
-16/03/2021 18:00,Setka Cup,Viktor Dushak,Vadim Kazmirchuk,Viktor Dushak,2.75,Vadim Kazmirchuk,0-3,0,1
-16/03/2021 20:05,Setka Cup,Borys Kostiuk,Serhii Sokolov,Serhii Sokolov,3.75,Borys Kostiuk,03-Jan,0,1
-16/03/2021 21:30,Czech Liga Pro,Petr Bradach,Martin Bittner,Martin Bittner,2.75,Martin Bittner,0-3,2.75,1
-16/03/2021 17:25,Setka Cup,Yevhen Kyi,Oleksandr Mishchenko,Yevhen Kyi,3.5,Yevhen Kyi,03-Jan,3.5,1
-16/03/2021 17:45,Liga Pro,Dmitry Petrochenko,Sergey Nikulin,Dmitry Petrochenko,3,Sergey Nikulin,02-Mar,0,1
-16/03/2021 20:25,TT Cup Ukraine,Denys Shcherbak,Serhii Ponomarenko,Serhii Ponomarenko,3,Serhii Ponomarenko,01-Mar,3,1
-16/03/2021 21:35,TT Cup Ukraine,Ivan Fashchevskyi,Samvel Melkumian,Samvel Melkumian,3.5,Ivan Fashchevskyi,3-0,0,1
-17/03/2021 00:25,Setka Cup,Vladimir Chornobab,Roman Malynka,Roman Malynka,3.4,Vladimir Chornobab,03-Feb,0,1
-17/03/2021 04:30,Liga Pro,Gennady Karpovkin,Andrey Zabrodin,Gennady Karpovkin,3.75,Andrey Zabrodin,0-3,0,1
-17/03/2021 05:00,Liga Pro,Pavel Vshivkov,Sergey Ovechkin,Pavel Vshivkov,3.75,Sergey Ovechkin,0-3,0,1
-17/03/2021 06:30,Setka Cup,Vladislav Ratushnyak,Mykhailo Zholubak,Mykhailo Zholubak,4.333,Vladislav Ratushnyak,03-Feb,0,1
-17/03/2021 08:40,TT Cup Ukraine,Serhii Baranovskyi,Aleksey Krutko,Serhii Baranovskyi,3,Aleksey Krutko,0-3,0,1
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
+2021-03-15 21:45:00,Liga Pro,Igor Mihaylov,Vladimir Belyakov,Igor Mihaylov,3.0,Vladimir Belyakov,1-3,0.0,1
+2021-03-15 22:15:00,TT Cup Ukraine,Andrey Guchok,Igor Demchuk,Andrey Guchok,3.25,Andrey Guchok,3-1,3.25,1
+2021-03-15 23:00:00,TT Cup Ukraine,Yaroslav Vorsuliak,Oleg Savenkov,Oleg Savenkov,4.0,Yaroslav Vorsuliak,3-0,0.0,1
+2021-03-15 23:35:00,TT Cup Ukraine,Stepan Nykyforuk,Yevhenii Faflei,Yevhenii Faflei,2.75,Yevhenii Faflei,0-3,2.75,1
+2021-03-16 01:20:00,TT Cup Ukraine,Vasyl Aksenin,Yevhenii Faflei,Yevhenii Faflei,3.4,Vasyl Aksenin,3-0,0.0,1
+2021-03-16 01:55:00,Setka Cup,Andrii Shcherbak,Borys Kostiuk,Andrii Shcherbak,3.25,Andrii Shcherbak,3-0,3.25,1
+2021-03-16 02:55:00,Setka Cup,Hryhorii Kulishov,Borys Kostiuk,Hryhorii Kulishov,4.0,Borys Kostiuk,1-3,0.0,1
+2021-03-16 03:05:00,TT Cup Ukraine,Yaroslav Vorsuliak,Yevhenii Faflei,Yevhenii Faflei,4.333,Yaroslav Vorsuliak,3-1,0.0,1
+2021-03-16 04:15:00,TT Cup Ukraine,Yevhenii Faflei,Oleg Savenkov,Yevhenii Faflei,2.75,Yevhenii Faflei,3-0,2.75,1
+2021-03-16 06:10:00,Setka Cup,Roman Zholubak,Anatolii Levshyn,Anatolii Levshyn,4.333,Roman Zholubak,3-1,0.0,1
+2021-03-16 07:10:00,Setka Cup,Nikolay Kornienko,Anatolii Levshyn,Anatolii Levshyn,4.5,Nikolay Kornienko,3-2,0.0,1
+2021-03-16 07:55:00,TT Cup Ukraine,Anton Shipilov,Sergey Gilitukha,Sergey Gilitukha,4.333,Anton Shipilov,3-0,0.0,1
+2021-03-16 09:45:00,TT Star Series,David Prusa,Miroslav Horejsi,David Prusa,8.5,Miroslav Horejsi,1-3,0.0,1
+2021-03-16 11:45:00,TT Star Series,Patrik Klos,Michal Blinka,Michal Blinka,2.375,Patrik Klos,3-2,0.0,1
+2021-03-16 12:45:00,TT Star Series,David Prusa,Dmitrij Prokopcov,David Prusa,8.5,Dmitrij Prokopcov,0-3,0.0,1
+2021-03-16 15:40:00,Setka Cup,Andrii Melchenko,Nazar Kasianyk,Nazar Kasianyk,2.75,Nazar Kasianyk,0-3,2.75,1
+2021-03-16 16:40:00,Setka Cup,Yevhen Skorobahatyi,Andrii Melchenko,Andrii Melchenko,3.0,Andrii Melchenko,0-3,3.0,1
+2021-03-16 18:30:00,Setka Cup,Sergii Skhabitskiy,Bohdan Havryliuk,Sergii Skhabitskiy,3.0,Sergii Skhabitskiy,3-2,3.0,1
+2021-03-16 20:00:00,Setka Cup,Vadim Kazmirchuk,Viktor Bereza,Viktor Bereza,3.25,Vadim Kazmirchuk,3-0,0.0,1
+2021-03-16 13:25:00,TT Cup Ukraine,Oleksandr Kovalov,Anatolii Yakovenko,Anatolii Yakovenko,2.75,Anatolii Yakovenko,2-3,2.75,1
+2021-03-16 17:05:00,Setka Cup,Borys Kostiuk,Hryhorii Kulishov,Hryhorii Kulishov,3.25,Hryhorii Kulishov,0-3,3.25,1
+2021-03-16 18:00:00,Setka Cup,Viktor Dushak,Vadim Kazmirchuk,Viktor Dushak,2.75,Vadim Kazmirchuk,0-3,0.0,1
+2021-03-16 20:05:00,Setka Cup,Borys Kostiuk,Serhii Sokolov,Serhii Sokolov,3.75,Borys Kostiuk,3-1,0.0,1
+2021-03-16 21:30:00,Czech Liga Pro,Petr Bradach,Martin Bittner,Martin Bittner,2.75,Martin Bittner,0-3,2.75,1
+2021-03-16 17:25:00,Setka Cup,Yevhen Kyi,Oleksandr Mishchenko,Yevhen Kyi,3.5,Yevhen Kyi,3-1,3.5,1
+2021-03-16 17:45:00,Liga Pro,Dmitry Petrochenko,Sergey Nikulin,Dmitry Petrochenko,3.0,Sergey Nikulin,2-3,0.0,1
+2021-03-16 20:25:00,TT Cup Ukraine,Denys Shcherbak,Serhii Ponomarenko,Serhii Ponomarenko,3.0,Serhii Ponomarenko,1-3,3.0,1
+2021-03-16 21:35:00,TT Cup Ukraine,Ivan Fashchevskyi,Samvel Melkumian,Samvel Melkumian,3.5,Ivan Fashchevskyi,3-0,0.0,1
+2021-03-17 00:25:00,Setka Cup,Vladimir Chornobab,Roman Malynka,Roman Malynka,3.4,Vladimir Chornobab,3-2,0.0,1
+2021-03-17 04:30:00,Liga Pro,Gennady Karpovkin,Andrey Zabrodin,Gennady Karpovkin,3.75,Andrey Zabrodin,0-3,0.0,1
+2021-03-17 05:00:00,Liga Pro,Pavel Vshivkov,Sergey Ovechkin,Pavel Vshivkov,3.75,Sergey Ovechkin,0-3,0.0,1
+2021-03-17 06:30:00,Setka Cup,Vladislav Ratushnyak,Mykhailo Zholubak,Mykhailo Zholubak,4.333,Vladislav Ratushnyak,3-2,0.0,1
+2021-03-17 08:40:00,TT Cup Ukraine,Serhii Baranovskyi,Aleksey Krutko,Serhii Baranovskyi,3.0,Aleksey Krutko,0-3,0.0,1
+2021-03-17 10:30:00,Liga Pro,Kirill Malahov,Aleksey Zirin,Aleksey Zirin,6.5,Aleksey Zirin,2-3,6.5,1
+2021-03-17 12:45:00,Setka Cup,Stefan Yakimenko,Sergey Yatsenko,Sergey Yatsenko,4.333,Stefan Yakimenko,3-0,0.0,1
+2021-03-17 13:00:00,Setka Cup,Ivan Omelchuk,Mykhailo Zholubak,Mykhailo Zholubak,4.333,Ivan Omelchuk,3-2,0.0,1
+2021-03-17 13:35:00,Setka Cup,Serhii Kuprykov,Dmitriy Pereyaslovskyi,Dmitriy Pereyaslovskyi,3.5,Dmitriy Pereyaslovskyi,2-3,3.5,1
+2021-03-17 14:25:00,Setka Cup,Serhii Chelpanov,Roman Makarenko,Serhii Chelpanov,3.5,Serhii Chelpanov,3-0,3.5,1
+2021-03-17 10:40:00,Setka Cup,Valeriy Kolesnykov,Bohdan Havryliuk,Valeriy Kolesnykov,3.25,Bohdan Havryliuk,1-3,0.0,1
+2021-03-17 12:15:00,Setka Cup,Oleh Yurenev,Oleg Pereguda,Oleh Yurenev,2.75,Oleg Pereguda,0-3,0.0,1
+2021-03-17 14:10:00,TT Cup Ukraine,Uriy Sandulenko,Dmytro Halai,Dmytro Halai,3.0,Dmytro Halai,2-3,3.0,1
