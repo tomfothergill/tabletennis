@@ -59,6 +59,10 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-03-18 08:55:00,Setka Cup,Eduard Sotnikov,Volodymyr Butko,Volodymyr Butko,2.1,Eduard Sotnikov,3-0,0.0,1
 2021-03-18 13:45:00,Setka Cup Women,Lilia Andreeva,Nadiia Kovtun,Nadiia Kovtun,3.75,Lilia Andreeva,3-1,0.0,1
 2021-03-18 14:35:00,Setka Cup,Borys Kostiuk,Hryhorii Kulishov,Hryhorii Kulishov,2.5,Hryhorii Kulishov,1-3,2.5,1
+2021-03-18 15:15:00,Setka Cup Women,Lilia Andreeva,Karina Zharkova,Karina Zharkova,2.25,Karina Zharkova,,2.25,1
+2021-03-18 16:50:00,Setka Cup,Vadym Bochkovsky,Nikolay Kornienko,Nikolay Kornienko,3.4,Vadym Bochkovsky,3-1,0.0,1
+2021-03-18 18:20:00,Setka Cup,Volodymyr Korobko,Stanislav Nikolenko,Volodymyr Korobko,2.625,Volodymyr Korobko,3-2,2.625,1
+2021-03-18 19:15:00,Setka Cup Women,Karina Zharkova,Nadiia Kovtun,Nadiia Kovtun,3.5,Nadiia Kovtun,,3.5,1
 2021-03-17 22:00:00,Liga Pro,Andrey Pravednov,Timofey Shatilov,Andrey Pravednov,2.625,Andrey Pravednov,3-0,2.625,1
 2021-03-18 09:15:00,TT Cup Ukraine,Serhii Baranovskyi,Aleksey Krutko,Serhii Baranovskyi,2.75,Aleksey Krutko,1-3,0.0,1
 2021-03-18 09:55:00,TT Cup Ukraine,Dmytro Yaremchuk,Roman Derypaska,Roman Derypaska,3.5,Dmytro Yaremchuk,3-1,0.0,1
@@ -71,3 +75,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-03-18 11:05:00,TT Cup Ukraine,Nikita Trofimov,Dmytro Yaremchuk,Nikita Trofimov,3.0,Dmytro Yaremchuk,0-3,0.0,1
 2021-03-18 12:40:00,Setka Cup,Mykola Ulianchych,Artem Yurkov,Mykola Ulianchych,2.5,Mykola Ulianchych,3-0,2.5,1
 2021-03-18 15:15:00,Setka Cup Women,Lilia Andreeva,Viktoriia Anarmetova,Viktoriia Anarmetova,2.625,Lilia Andreeva,3-1,0.0,1
+2021-03-18 15:55:00,Setka Cup,Andrii Dombrovskyi,Roman Makarenko,Roman Makarenko,5.0,Andrii Dombrovskyi,3-0,0.0,1
+2021-03-18 16:00:00,Setka Cup,Oleg Pereguda,Marat Yakubov,Marat Yakubov,5.0,Marat Yakubov,1-3,5.0,1
+2021-03-18 19:30:00,Setka Cup,Vadym Kucheriavyi,Oleg Pereguda,Vadym Kucheriavyi,3.75,Vadym Kucheriavyi,3-2,3.75,1
+2021-03-18 18:30:00,TT Cup Ukraine,Igor Piskorskyy,Illya Semeniuk,Illya Semeniuk,2.375,Illya Semeniuk,0-3,2.375,1
