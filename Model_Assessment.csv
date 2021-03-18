@@ -40,6 +40,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-03-17 18:10:00,Setka Cup,Oleksandr Kolbasenko,Andrii Skliarenko,Oleksandr Kolbasenko,3.4,Oleksandr Kolbasenko,3-1,3.4,1
 2021-03-17 19:10:00,Setka Cup,Oleksandr Paniotov,Artem Yurkov,Oleksandr Paniotov,4.0,Oleksandr Paniotov,3-1,4.0,1
 2021-03-17 19:15:00,Setka Cup,Viktor Antonenko,Andrii Podolian,Viktor Antonenko,3.75,Andrii Podolian,0-3,0.0,1
+2021-03-17 21:25:00,Setka Cup,Serhii Bondarenko,Yuriy Kolesnik,Serhii Bondarenko,3.5,Yuriy Kolesnik,1-3,0.0,1
 2021-03-17 10:40:00,Setka Cup,Valeriy Kolesnykov,Bohdan Havryliuk,Valeriy Kolesnykov,3.25,Bohdan Havryliuk,1-3,0.0,1
 2021-03-17 12:15:00,Setka Cup,Oleh Yurenev,Oleg Pereguda,Oleh Yurenev,2.75,Oleg Pereguda,0-3,0.0,1
 2021-03-17 14:10:00,TT Cup Ukraine,Uriy Sandulenko,Dmytro Halai,Dmytro Halai,3.0,Dmytro Halai,2-3,3.0,1
@@ -51,3 +52,22 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-03-17 18:05:00,Setka Cup,Serhii Kuprykov,Roman Yushko,Serhii Kuprykov,3.25,Roman Yushko,2-3,0.0,1
 2021-03-17 18:20:00,TT Cup Ukraine,Yehor Miniailo,Andrey Troyan,Andrey Troyan,2.5,Yehor Miniailo,3-1,0.0,1
 2021-03-17 19:15:00,Liga Pro,Ivan Moshkov,Dmitry Petrochenko,Dmitry Petrochenko,3.5,Ivan Moshkov,3-2,0.0,1
+2021-03-17 21:15:00,Liga Pro,Vasily Shirshov,Oleg Kutuzov,Vasily Shirshov,4.5,Vasily Shirshov,3-1,4.5,1
+2021-03-17 23:25:00,Setka Cup,Vladimir Chornobab,Roman Malynka,Roman Malynka,3.5,Vladimir Chornobab,3-0,0.0,1
+2021-03-18 01:00:00,Liga Pro,Aleksey Uezdin,Andrey Pravednov,Aleksey Uezdin,3.0,Andrey Pravednov,1-3,0.0,1
+2021-03-18 05:30:00,Liga Pro,Andrey Andreev,Vladimir Vologzhanin,Vladimir Vologzhanin,3.25,Vladimir Vologzhanin,0-3,3.25,1
+2021-03-18 08:55:00,Setka Cup,Eduard Sotnikov,Volodymyr Butko,Volodymyr Butko,2.1,Eduard Sotnikov,3-0,0.0,1
+2021-03-18 13:45:00,Setka Cup Women,Lilia Andreeva,Nadiia Kovtun,Nadiia Kovtun,3.75,Lilia Andreeva,3-1,0.0,1
+2021-03-18 14:35:00,Setka Cup,Borys Kostiuk,Hryhorii Kulishov,Hryhorii Kulishov,2.5,Hryhorii Kulishov,1-3,2.5,1
+2021-03-17 22:00:00,Liga Pro,Andrey Pravednov,Timofey Shatilov,Andrey Pravednov,2.625,Andrey Pravednov,3-0,2.625,1
+2021-03-18 09:15:00,TT Cup Ukraine,Serhii Baranovskyi,Aleksey Krutko,Serhii Baranovskyi,2.75,Aleksey Krutko,1-3,0.0,1
+2021-03-18 09:55:00,TT Cup Ukraine,Dmytro Yaremchuk,Roman Derypaska,Roman Derypaska,3.5,Dmytro Yaremchuk,3-1,0.0,1
+2021-03-18 10:15:00,TT Cup Ukraine,Viktor Bosak,Andrey Guchok,Andrey Guchok,4.5,Viktor Bosak,3-0,0.0,1
+2021-03-18 11:10:00,TT Cup Ukraine,Andrii Selin,Oleksandr Semenets,Andrii Selin,3.5,Oleksandr Semenets,1-3,0.0,1
+2021-03-18 13:25:00,TT Cup Ukraine,Dmytro Yaremchuk,Nazar Kovalchuk,Nazar Kovalchuk,3.75,Dmytro Yaremchuk,3-1,0.0,1
+2021-03-18 14:10:00,Setka Cup,Dmytro Prokopenko,Maksym Mrykh,Dmytro Prokopenko,4.333,Dmytro Prokopenko,3-0,4.333,1
+2021-03-18 09:40:00,Setka Cup,Mykola Ulianchych,Dmytro Lazuryk,Mykola Ulianchych,2.75,Dmytro Lazuryk,2-3,0.0,1
+2021-03-18 10:45:00,Liga Pro,Oleg Suharkov,Nikita Kurilchik,Nikita Kurilchik,3.25,Oleg Suharkov,3-1,0.0,1
+2021-03-18 11:05:00,TT Cup Ukraine,Nikita Trofimov,Dmytro Yaremchuk,Nikita Trofimov,3.0,Dmytro Yaremchuk,0-3,0.0,1
+2021-03-18 12:40:00,Setka Cup,Mykola Ulianchych,Artem Yurkov,Mykola Ulianchych,2.5,Mykola Ulianchych,3-0,2.5,1
+2021-03-18 15:15:00,Setka Cup Women,Lilia Andreeva,Viktoriia Anarmetova,Viktoriia Anarmetova,2.625,Lilia Andreeva,3-1,0.0,1
