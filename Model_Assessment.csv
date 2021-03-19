@@ -94,9 +94,14 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-03-19 13:30:00,Setka Cup Women,Alina Bohdanova,Oleksandra Tsiupko,Alina Bohdanova,2.25,Alina Bohdanova,3-0,2.25,1
 2021-03-19 14:05:00,Setka Cup,Andrii Peretiatko,Yevhenii Sokoltsov,Yevhenii Sokoltsov,2.5,Yevhenii Sokoltsov,1-3,2.5,1
 2021-03-19 14:20:00,Setka Cup,Serhii Rak,Yevhen Trunov,Serhii Rak,5.0,Serhii Rak,3-2,5.0,1
+2021-03-19 16:05:00,Setka Cup,Andrii Peretiatko,Roman Kuvaiev,Roman Kuvaiev,5.0,Andrii Peretiatko,3-0,0.0,1
+2021-03-19 17:00:00,Setka Cup Women,Olena Nalisnykovska,Svitlana Yureneva,Svitlana Yureneva,8.0,Olena Nalisnykovska,3-1,0.0,1
+2021-03-19 17:05:00,Setka Cup,Roman Kuvaiev,Yevhenii Sokoltsov,Yevhenii Sokoltsov,2.2,Roman Kuvaiev,3-2,0.0,1
+2021-03-19 19:05:00,Setka Cup,Yevhenii Sokoltsov,Evgeny Ivanov,Yevhenii Sokoltsov,2.5,Yevhenii Sokoltsov,3-1,2.5,1
 2021-03-18 22:30:00,Liga Pro,Aleksey Uezdin,Dmitry Ignatiev,Aleksey Uezdin,4.5,Dmitry Ignatiev,1-3,0.0,1
 2021-03-19 07:50:00,Setka Cup,Kostiantyn Klymenko,Vitalii Mukhin,Vitalii Mukhin,2.75,Kostiantyn Klymenko,3-0,0.0,1
 2021-03-19 11:30:00,Setka Cup,Vladislav Ratushnyak,Mykhailo Zholubak,Mykhailo Zholubak,3.75,Vladislav Ratushnyak,3-1,0.0,1
+2021-03-19 17:50:00,Setka Cup,Anatolii Nazarov,Oleksandr Alieksieev,Anatolii Nazarov,2.2,Anatolii Nazarov,3-0,2.2,1
 2021-03-19 09:05:00,Setka Cup,Evgeniy Khurtak,Volodymyr Butko,Volodymyr Butko,6.5,Volodymyr Butko,1-3,6.5,1
 2021-03-19 10:10:00,TT Cup Ukraine,Oleksandr Leonenko,Andrey Troyan,Andrey Troyan,3.0,Oleksandr Leonenko,3-0,0.0,1
 2021-03-19 10:15:00,TT Cup Ukraine,Oleg Shevchuk,Oleksandr Pinchuk,Oleg Shevchuk,3.0,Oleksandr Pinchuk,1-3,0.0,1
@@ -107,3 +112,6 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-03-19 12:20:00,Setka Cup,Volodymyr Okopnyi,Stanislav Nikolenko,Volodymyr Okopnyi,5.0,Stanislav Nikolenko,0-3,0.0,1
 2021-03-19 13:30:00,TT Cup Ukraine,Mykola Zakladnyi,Vitaliy Solovey,Mykola Zakladnyi,2.25,Vitaliy Solovey,1-3,0.0,1
 2021-03-19 14:35:00,TT Cup Ukraine,Serhii Pokidko,Oleksandr Semenets,Serhii Pokidko,3.5,Oleksandr Semenets,2-3,0.0,1
+2021-03-19 17:10:00,Setka Cup,Nikolay Kornienko,Vladimir Voronenko,Nikolay Kornienko,3.75,Nikolay Kornienko,3-0,3.75,1
+2021-03-19 18:05:00,Setka Cup,Yevhen Bielokon,Roman Kuvaiev,Yevhen Bielokon,2.375,Yevhen Bielokon,3-1,2.375,1
+2021-03-19 19:35:00,Setka Cup,Yevhen Bielokon,Andrii Peretiatko,Yevhen Bielokon,3.5,Yevhen Bielokon,3-0,3.5,1
