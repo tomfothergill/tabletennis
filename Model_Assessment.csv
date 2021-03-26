@@ -237,6 +237,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-03-25 08:00:00,Setka Cup,Vladislav Ratushnyak,Mykhailo Zholubak,Mykhailo Zholubak,4.333,Vladislav Ratushnyak,3-1,0.0,1
 2021-03-25 14:25:00,Setka Cup,Andrii Peretiatko,Roman Kuvaiev,Roman Kuvaiev,4.5,Andrii Peretiatko,3-0,0.0,1
 2021-03-25 16:35:00,Setka Cup,Yevhen Bielokon,Andrii Hrytsai,Yevhen Bielokon,2.75,Andrii Hrytsai,0-3,0.0,1
+2021-03-25 20:25:00,Setka Cup,Andrii Peretiatko,Serhii Khandetskyi,Andrii Peretiatko,2.75,Serhii Khandetskyi,0-3,0.0,1
 2021-03-25 09:00:00,TT Cup Ukraine,Vladyslav Batenko,Dmytro Halai,Dmytro Halai,2.625,Vladyslav Batenko,3-1,0.0,1
 2021-03-25 10:20:00,Setka Cup,Oleksandr Buberenko,Illia Valchuk,Oleksandr Buberenko,3.0,Oleksandr Buberenko,3-1,3.0,1
 2021-03-25 14:00:00,TT Cup Ukraine,David Simonchuk,Anton Riabukhin,Anton Riabukhin,4.333,David Simonchuk,3-2,0.0,1
@@ -249,3 +250,11 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-03-25 18:15:00,TT Cup Ukraine,Illia Udod,Sergey Filatov,Illia Udod,2.625,Sergey Filatov,1-3,0.0,1
 2021-03-25 18:55:00,TT Cup Ukraine,Nikita Zinov,Vadim Sidorenko,Nikita Zinov,3.0,Vadim Sidorenko,1-3,0.0,1
 2021-03-25 19:30:00,Setka Cup Women,Olena Nalisnykovska,Svitlana Yureneva,Svitlana Yureneva,8.5,Olena Nalisnykovska,3-1,0.0,1
+2021-03-25 23:15:00,Liga Pro,Evgeniy Ilyukhin,Miroslav Minkov,Evgeniy Ilyukhin,4.0,Evgeniy Ilyukhin,3-2,4.0,1
+2021-03-26 00:15:00,Liga Pro,Miroslav Minkov,Dmitry Evlakhin,Miroslav Minkov,2.2,Dmitry Evlakhin,2-3,0.0,1
+2021-03-25 23:25:00,Setka Cup,Andrey Kovrikov,Oleksandr Ivashkin,Andrey Kovrikov,2.1,Andrey Kovrikov,3-1,2.1,1
+2021-03-26 03:05:00,Setka Cup,Oleksandr Liushnia,Roman Makarenko,Oleksandr Liushnia,3.25,Roman Makarenko,0-3,0.0,1
+2021-03-26 04:45:00,Liga Pro,Egor Mishutin,Dmitry Petrochenko,Dmitry Petrochenko,2.625,Egor Mishutin,3-0,0.0,1
+2021-03-26 04:55:00,Setka Cup,Andrey Kovrikov,Timur Voitekhov,Andrey Kovrikov,2.1,Timur Voitekhov,2-3,0.0,1
+2021-03-26 05:30:00,Liga Pro,Igor Sergeevich,Igor Meteleshko,Igor Sergeevich,4.0,Igor Sergeevich,3-0,4.0,1
+2021-03-26 07:15:00,Liga Pro,Igor Poletaev,Artem Arutiunyan,Artem Arutiunyan,3.5,Artem Arutiunyan,1-3,3.5,1
