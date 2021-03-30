@@ -21,8 +21,8 @@ tt_file['Date'] = pd.to_datetime(tt_file['Time']).dt.date
 
 #################################################################
 comps_list = list(tt_file.League.unique())
-min_price = tt_file.Price.min()
-max_price = tt_file.Price.max()
+min_price = float(tt_file.Price.min())
+max_price = float(tt_file.Price.max())
 
 col1, col2 = st.beta_columns([2, 1])
 
