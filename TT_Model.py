@@ -64,7 +64,7 @@ base = alt.Chart(source)
 
 area = alt.Chart(source).mark_line( 
     line = {'color':'darkgrey'},
-    color = 'black'
+    color = 'lightblue'
 ).encode(
     x='Bet_No',
     y='Total_Profit',
