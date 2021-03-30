@@ -360,8 +360,11 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-03-30 12:30:00,Liga Pro,Vladimir Nemashkalo,Aleksandr Kolmin,Aleksandr Kolmin,3.5,Aleksandr Kolmin,1-3,3.5,1
 2021-03-30 13:00:00,Setka Cup,Vladislav Ratushnyak,Mykhailo Zholubak,Mykhailo Zholubak,5.0,Mykhailo Zholubak,2-3,5.0,1
 2021-03-30 16:10:00,Setka Cup,Ihor Rubanka,Ivan Udovenko,Ivan Udovenko,3.0,Ihor Rubanka,3-0,0.0,1
+2021-03-30 17:20:00,Setka Cup,Vladyslav Mishchenko,Anatolii Nazarov,Anatolii Nazarov,2.25,Vladyslav Mishchenko,3-0,0.0,1
+2021-03-30 18:50:00,Setka Cup,Ivan Fedoryshyn,Anatolii Nazarov,Anatolii Nazarov,2.625,Ivan Fedoryshyn,3-2,0.0,1
 2021-03-30 07:00:00,Czech Liga Pro,Martin Huk,Tibor Batthyany,Tibor Batthyany,3.25,Tibor Batthyany,1-3,3.25,1
 2021-03-30 10:30:00,Czech Liga Pro,Milan Klement,Vojtech Waldhauser,Milan Klement,4.333,Vojtech Waldhauser,1-3,0.0,1
+2021-03-30 16:30:00,Czech Liga Pro,Martin Bittner,Karel Brozhik,Martin Bittner,3.0,Martin Bittner,3-0,3.0,1
 2021-03-30 14:30:00,Czech Liga Pro,Jan Mecl Jr.,Karel Brozhik,Karel Brozhik,3.75,Jan Mecl Jr.,3-1,0.0,1
 2021-03-30 15:00:00,Czech Liga Pro,Martin Bittner,Jan Mecl Jr.,Martin Bittner,3.25,Jan Mecl Jr.,2-3,0.0,1
 2021-03-30 05:50:00,TT Cup Ukraine,Liubomyr Sheshurak,Illya Semeniuk,Illya Semeniuk,2.625,Liubomyr Sheshurak,3-0,0.0,1
@@ -379,3 +382,6 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-03-30 10:15:00,TT Cup Ukraine,Sergey Zazimko,Samvel Melkumian,Samvel Melkumian,3.25,Sergey Zazimko,3-1,0.0,1
 2021-03-30 09:15:00,TT Cup Ukraine,Viktor Kotov,Andrii Khvysiuk,Viktor Kotov,3.4,Andrii Khvysiuk,2-3,0.0,1
 2021-03-30 13:25:00,Setka Cup,Andrii Shcherbak,Borys Kostiuk,Andrii Shcherbak,3.75,Andrii Shcherbak,3-1,3.75,1
+2021-03-30 13:25:00,TT Cup Ukraine,Stepan Nykyforuk,Roman Vashchuk,Roman Vashchuk,2.5,Stepan Nykyforuk,3-0,0.0,1
+2021-03-30 15:45:00,TT Cup Ukraine,Stepan Nykyforuk,Roman Pinchuk,Roman Pinchuk,2.5,Stepan Nykyforuk,3-1,0.0,1
+2021-03-30 15:25:00,TT Cup Ukraine Women,Alina Shkarban,Tatiana Bairak,Tatiana Bairak,5.0,Alina Shkarban,3-0,0.0,1
