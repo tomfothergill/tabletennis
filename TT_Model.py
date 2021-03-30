@@ -14,7 +14,8 @@ from PIL import Image
 import datetime
 
 tt_file = pd.read_csv(r"https://raw.githubusercontent.com/tomfothergill/tabletennis/main/Model_Assessment.csv")
-tt_file['Time'] = pd.to_datetime(tt_file['Time']).dt.date
+tt_file = tt_file[~tt_file['Scoreline'].isnull()]
+tt_file['Date'] = pd.to_datetime(tt_file['Time']).dt.date
 #st.line_chart(tt_file)
 
 
@@ -29,14 +30,14 @@ st.sidebar.title("Parameters")
 comp_val = st.sidebar.multiselect(label = "Tournament", options = comps_list, default = comps_list)
 odds_val = st.sidebar.slider(label = "Price", min_value = min_price, max_value = max_price, value = [min_price, max_price])
 
-from_date = st.date_input("From date", datetime.date(2021, 3, 16))
+from_date = st.date_input("From date", datetime.date(2021, 3, 15))
 to_date = st.date_input("To date", datetime.datetime.today())
 
 
 col1.title("Model Performance")
 #source = data.stocks()
 
-tt_file = tt_file[tt_file['Time'].between(from_date, to_date)]
+tt_file = tt_file[tt_file['Date'].between(from_date, to_date)]
 source = tt_file[(tt_file['League'].isin(comp_val)) & (tt_file['Price'].between(odds_val[0], odds_val[1]))]
 source = source.sort_values(by = ['Time'])
 
