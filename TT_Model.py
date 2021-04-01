@@ -79,7 +79,8 @@ col2.subheader("Total Profit: " + str(total_profit_loss) + " units")
 col2.subheader("Total bets: " + str(number_of_bets))
 col2.subheader("P/L: " + str(p_l_perc) + "%")
 
-
+if st.button("Show all bets in range:"):
+    source
 
 
 #st.image(image)
