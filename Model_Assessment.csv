@@ -555,6 +555,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-04-06 15:40:00,Setka Cup,Oleksandr Ivashkin,Vladimir Voronenko,Vladimir Voronenko,3.75,Oleksandr Ivashkin,3-1,0.0,1
 2021-04-05 20:20:00,Setka Cup,Yurii Kolos,Oleksandr Ivchuk,Oleksandr Ivchuk,2.625,Yurii Kolos,3-0,0.0,1
 2021-04-06 11:00:00,Liga Pro,Maksim Ilichev,Ivan Afanasiev,Ivan Afanasiev,3.75,Maksim Ilichev,3-0,0.0,1
+2021-04-06 20:30:00,Setka Cup,Tomas Beran,Petr Dvorak,Tomas Beran,2.625,Petr Dvorak,3-2,0.0,1
 2021-04-06 05:10:00,Setka Cup,Yevhen Skorobahatyi,Bohdan Havryliuk,Bohdan Havryliuk,3.4,Bohdan Havryliuk,1-3,3.4,1
 2021-04-06 08:10:00,Setka Cup,Yevhen Skorobahatyi,Vasily Kondratenko,Vasily Kondratenko,3.25,Yevhen Skorobahatyi,3-0,0.0,1
 2021-04-06 06:10:00,TT Cup Ukraine,Evgeniy Voytenko,Viacheslav Sereda,Evgeniy Voytenko,2.2,Viacheslav Sereda,1-3,0.0,1
@@ -583,6 +584,19 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-04-06 18:35:00,Setka Cup,Aleksandr Sulim,Maxim Marchuk,Maxim Marchuk,2.0,Aleksandr Sulim,3-1,0.0,1
 2021-04-06 13:30:00,TT Cup Ukraine,Vladyslav Volokhov,Oleksandr Zhuravlov,Vladyslav Volokhov,3.75,Vladyslav Volokhov,3-1,3.75,1
 2021-04-06 15:50:00,TT Cup Ukraine,Vladyslav Volokhov,Serhii Kubrak,Vladyslav Volokhov,4.333,Serhii Kubrak,2-3,0.0,1
+2021-04-06 23:45:00,Liga Pro,Igor Mihaylov,Dmitry Evlakhin,Dmitry Evlakhin,4.333,Igor Mihaylov,3-1,0.0,1
 2021-04-06 14:45:00,TT Cup Ukraine,Serhii Ponomarenko,Alexander Tkachenko,Serhii Ponomarenko,2.5,Alexander Tkachenko,1-3,0.0,1
 2021-04-06 14:15:00,TT Cup Ukraine,David Simonchuk,Alexander Tkachenko,David Simonchuk,2.1,Alexander Tkachenko,2-3,0.0,1
+2021-04-06 22:15:00,TT Cup Ukraine,Serhii Berezynskyi,Mykola Tovkach,Mykola Tovkach,3.75,Serhii Berezynskyi,3-2,0.0,1
+2021-04-07 02:55:00,Setka Cup,Yevhenii Sokoltsov,Artem Lisechko,Yevhenii Sokoltsov,1.833,Artem Lisechko,2-3,0.0,1
 2021-04-06 18:20:00,TT Cup Ukraine,Ivan Mai,Valeriy Melnik,Valeriy Melnik,2.25,Ivan Mai,3-0,0.0,1
+2021-04-06 22:05:00,TT Cup Ukraine,Stepan Nykyforuk,Ivan Fashchevskyi,Ivan Fashchevskyi,3.0,Stepan Nykyforuk,3-1,0.0,1
+2021-04-06 23:05:00,TT Cup Ukraine,Stepan Nykyforuk,Vitaliy Solovey,Vitaliy Solovey,4.5,Stepan Nykyforuk,3-2,0.0,1
+2021-04-07 07:00:00,Liga Pro,Sergey Ovechkin,Gennady Karpovkin,Sergey Ovechkin,4.333,Gennady Karpovkin,0-3,0.0,1
+2021-04-07 06:15:00,Setka Cup,Konstiantyn Tsoi,Sergey Yatsenko,Sergey Yatsenko,3.75,Sergey Yatsenko,1-3,3.75,1
+2021-04-07 06:45:00,Setka Cup,Oleh Yurenev,Oleg Pereguda,Oleh Yurenev,3.5,Oleh Yurenev,3-1,3.5,1
+2021-04-07 05:15:00,Setka Cup,Oleh Yurenev,Sergey Yatsenko,Oleh Yurenev,3.75,Sergey Yatsenko,0-3,0.0,1
+2021-04-06 20:20:00,Setka Cup,Artem Yurkov,Anatolii Nazarov,Anatolii Nazarov,3.75,Artem Yurkov,3-1,0.0,1
+2021-04-07 04:50:00,TT Cup Ukraine,Maksim Ovcharenko,Denis Vakulenko,Denis Vakulenko,2.75,Denis Vakulenko,2-3,2.75,1
+2021-04-07 06:00:00,TT Cup Ukraine,Dmytro Alekseenko,Denis Vakulenko,Denis Vakulenko,2.75,Denis Vakulenko,2-3,2.75,1
+2021-04-07 06:10:00,TT Cup Ukraine,Volodymir Maksuta,Dmytro Drobov,Dmytro Drobov,3.4,Volodymir Maksuta,3-0,0.0,1
