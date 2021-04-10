@@ -664,6 +664,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-04-09 14:25:00,Setka Cup,Roman Makarenko,Ruslan Solomko,Ruslan Solomko,2.75,Ruslan Solomko,0-3,2.75,1
 2021-04-09 16:25:00,Setka Cup,Serhii Chelpanov,Ruslan Solomko,Serhii Chelpanov,4.5,Serhii Chelpanov,3-2,4.5,1
 2021-04-09 17:55:00,Setka Cup,Serhii Chelpanov,Roman Makarenko,Serhii Chelpanov,3.25,Serhii Chelpanov,3-0,3.25,1
+2021-04-09 20:25:00,Setka Cup,Ruslan Solomko,Yurii Kurishchenko,Ruslan Solomko,2.5,Yurii Kurishchenko,1-3,0.0,1
 2021-04-09 16:15:00,Setka Cup Women,Aniuta Muliarchuk,Marta Maliuta,Aniuta Muliarchuk,5.0,Aniuta Muliarchuk,3-1,5.0,1
 2021-04-09 09:50:00,TT Cup Ukraine,Volodymyr Tuchkevych,Igor Demchuk,Igor Demchuk,3.0,Igor Demchuk,0-3,3.0,1
 2021-04-09 10:25:00,TT Cup Ukraine,Samvel Melkumian,Volodymyr Tuchkevych,Samvel Melkumian,3.75,Samvel Melkumian,3-2,3.75,1
@@ -674,8 +675,19 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-04-09 15:30:00,Setka Cup Women,Alina Novosad,Anastasiia Mydvetska,Anastasiia Mydvetska,4.0,Alina Novosad,3-2,0.0,1
 2021-04-09 09:05:00,TT Cup Ukraine,Andrey Scherinskiy,Andrii Herasymenko,Andrii Herasymenko,3.4,Andrey Scherinskiy,3-1,0.0,1
 2021-04-09 09:40:00,TT Cup Ukraine,Dmytro Halai,Vladyslav Batenko,Dmytro Halai,3.4,Dmytro Halai,3-1,3.4,1
+2021-04-09 20:45:00,Liga Pro,Aleksandr Golyshev,Evgeny Kalashnikov,Aleksandr Golyshev,2.5,Evgeny Kalashnikov,2-3,0.0,1
 2021-04-09 09:35:00,TT Cup Ukraine,Serhii Kiilo,Mykola Zakladnyi,Mykola Zakladnyi,2.5,Serhii Kiilo,3-1,0.0,1
+2021-04-09 18:50:00,Setka Cup,Bohdan Havryliuk,Yevhen Skorobahatyi,Bohdan Havryliuk,3.0,Yevhen Skorobahatyi,1-3,0.0,1
+2021-04-09 20:20:00,Setka Cup,Bohdan Havryliuk,Yevhen Skorobahatyi,Bohdan Havryliuk,3.0,Yevhen Skorobahatyi,1-3,0.0,1
 2021-04-09 09:25:00,TT Cup Ukraine,Eduard Rubtsov,Denis Vakulenko,Denis Vakulenko,1.909,Denis Vakulenko,0-3,1.909,1
 2021-04-09 19:00:00,Liga Pro,Anton Gerasimov,Oleg Pronin,Oleg Pronin,6.5,Anton Gerasimov,3-0,0.0,1
 2021-04-09 18:15:00,Liga Pro,Ivan Moshkov,Dmitriy Tunitsyn,Ivan Moshkov,4.333,Dmitriy Tunitsyn,2-3,0.0,1
 2021-04-09 14:35:00,Setka Cup,Serhii Kuprykov,Dmitriy Pereyaslovskyi,Dmitriy Pereyaslovskyi,3.4,Serhii Kuprykov,3-0,0.0,1
+2021-04-09 21:30:00,Liga Pro,Sergei Ogai,Andrey Pravednov,Sergei Ogai,3.75,Andrey Pravednov,1-3,0.0,1
+2021-04-10 00:00:00,Liga Pro,Roman Pavlenko,Andrey Pravednov,Andrey Pravednov,4.333,Roman Pavlenko,3-2,0.0,1
+2021-04-09 22:15:00,Liga Pro,Alexei Vlasov,Artem Suntsov,Alexei Vlasov,4.5,Artem Suntsov,0-3,0.0,1
+2021-04-09 20:35:00,TT Cup Ukraine,Oleksandr Shchytka,Stanislav Harenko,Oleksandr Shchytka,3.25,Oleksandr Shchytka,3-0,3.25,1
+2021-04-10 07:15:00,Setka Cup Women,Liudmyla Kudriei,Tamara Kravchuk,Tamara Kravchuk,3.25,Liudmyla Kudriei,3-0,0.0,1
+2021-04-10 08:15:00,TT Cup Ukraine,Oleksandr Zhukovskyi,Yevhen Masko,Oleksandr Zhukovskyi,2.2,Oleksandr Zhukovskyi,3-0,2.2,1
+2021-04-10 07:05:00,TT Cup Ukraine,Dmytro Alekseenko,Denis Vakulenko,Denis Vakulenko,2.5,Denis Vakulenko,0-3,2.5,1
+2021-04-10 08:15:00,TT Cup Ukraine,Eduard Rubtsov,Denis Vakulenko,Denis Vakulenko,1.833,Denis Vakulenko,0-3,1.833,1
