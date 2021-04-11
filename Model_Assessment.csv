@@ -711,8 +711,11 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-04-10 23:25:00,Setka Cup,Serhii Bondarenko,Maksym Tytskyi,Serhii Bondarenko,3.4,Serhii Bondarenko,3-1,3.4,1
 2021-04-10 16:10:00,TT Cup Ukraine,Sergey Zazimko,Nikita Korbut,Nikita Korbut,3.0,Nikita Korbut,1-3,3.0,1
 2021-04-10 16:35:00,TT Cup Ukraine,Vadim Komar,Oleksandr Yarovoi,Oleksandr Yarovoi,3.75,Oleksandr Yarovoi,2-3,3.75,1
+2021-04-11 16:40:00,Setka Cup Women,Polina Nerush,Tetyana Mudrak,Tetyana Mudrak,4.0,Polina Nerush,3-2,0.0,1
 2021-04-10 16:15:00,Liga Pro,Ivan Kirpitnev,Alexey Slashchilin,Alexey Slashchilin,2.625,Ivan Kirpitnev,3-1,0.0,1
 2021-04-11 05:15:00,Liga Pro,Anatoly Trushkin,Vitaly Bazilevsky,Vitaly Bazilevsky,2.5,Anatoly Trushkin,3-2,0.0,1
+2021-04-11 14:15:00,Setka Cup,Marat Yakubov,Serhii Solomko,Marat Yakubov,2.625,Marat Yakubov,3-0,2.625,1
+2021-04-11 17:50:00,Setka Cup,Serhii Burdelnyi,Serhii Dovzhenko,Serhii Dovzhenko,3.25,Serhii Dovzhenko,0-3,3.25,1
 2021-04-11 12:30:00,Liga Pro,Andrey Yakovlev,Andrey Zabrodin,Andrey Zabrodin,4.333,Andrey Yakovlev,3-0,0.0,1
 2021-04-11 05:20:00,Setka Cup,Volodymyr Korobko,Serhii Rak,Volodymyr Korobko,3.25,Serhii Rak,1-3,0.0,1
 2021-04-11 05:25:00,TT Cup Ukraine,Lev Kats,Serhii Boiko,Serhii Boiko,4.0,Lev Kats,3-0,0.0,1
@@ -722,3 +725,10 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-04-11 06:55:00,Setka Cup Women,Yuliia Tryhub,Roksolana Kurdova,Roksolana Kurdova,3.75,Roksolana Kurdova,0-3,3.75,1
 2021-04-11 09:25:00,Setka Cup Women,Yuliia Tryhub,Anastasia Gordinskaya,Anastasia Gordinskaya,4.333,Yuliia Tryhub,3-0,0.0,1
 2021-04-11 08:25:00,Setka Cup Women,Anastasia Gordinskaya,Roksolana Kurdova,Anastasia Gordinskaya,3.75,Anastasia Gordinskaya,3-0,3.75,1
+2021-04-11 16:30:00,Liga Pro,Igor Zemit,Vladimir Staroverov,Vladimir Staroverov,3.4,Igor Zemit,3-0,0.0,1
+2021-04-11 18:00:00,Liga Pro,Kirill Malahov,Igor Zemit,Kirill Malahov,3.0,Kirill Malahov,3-2,3.0,1
+2021-04-11 18:15:00,Liga Pro,Evgeniy Ilyukhin,Petr Zyuzikov,Evgeniy Ilyukhin,3.75,Petr Zyuzikov,0-3,0.0,1
+2021-04-11 16:10:00,TT Cup Ukraine,Sergey Zazimko,Nikita Korbut,Nikita Korbut,2.625,Sergey Zazimko,3-2,0.0,1
+2021-04-11 13:50:00,TT Cup Ukraine,Sergey Zazimko,Daniil Gabrelian,Daniil Gabrelian,3.5,Sergey Zazimko,3-0,0.0,1
+2021-04-11 14:55:00,Setka Cup,Serhii Bondarenko,Roman Gnoevoy,Serhii Bondarenko,4.5,Serhii Bondarenko,3-1,4.5,1
+2021-04-11 17:55:00,Setka Cup,Serhii Bondarenko,Yuriy Kolesnik,Serhii Bondarenko,2.5,Serhii Bondarenko,3-1,2.5,1
