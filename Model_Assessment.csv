@@ -1079,6 +1079,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-04-24 07:15:00,Setka Cup,Ihor Hudushyn,Vladyslav Stukalov,Ihor Hudushyn,3.0,Vladyslav Stukalov,0-3,0.0,1
 2021-04-24 17:50:00,Setka Cup,Serhii Solomko,Konstiantyn Tsoi,Konstiantyn Tsoi,3.5,Serhii Solomko,3-2,0.0,1
 2021-04-24 19:20:00,Setka Cup,Serhii Solomko,Vitalii Vasko,Vitalii Vasko,3.4,Serhii Solomko,3-1,0.0,1
+2021-04-24 19:50:00,Setka Cup,Sergey Yatsenko,Konstiantyn Tsoi,Sergey Yatsenko,3.4,Konstiantyn Tsoi,2-3,0.0,1
 2021-04-24 08:55:00,Setka Cup,Evgeny Ivanov,Serhii Pitsyk,Evgeny Ivanov,3.4,Serhii Pitsyk,1-3,0.0,1
 2021-04-24 12:25:00,Setka Cup,Roman Kuvaiev,Andrii Peretiatko,Roman Kuvaiev,3.75,Andrii Peretiatko,1-3,0.0,1
 2021-04-24 08:50:00,TT Cup Ukraine,Andrei Kostiuk,Levko Kuzyo,Andrei Kostiuk,3.75,Levko Kuzyo,0-3,0.0,1
@@ -1094,3 +1095,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-04-24 15:50:00,TT Cup Ukraine,Spartak Abalmaz,Vadim Smetenko,Spartak Abalmaz,3.4,Vadim Smetenko,2-3,0.0,1
 2021-04-24 15:55:00,TT Cup Ukraine,Dmitriy Arzanov,Anatoliy Chaplyanka,Dmitriy Arzanov,3.0,Dmitriy Arzanov,3-1,3.0,1
 2021-04-24 18:20:00,TT Cup Ukraine,Maksym Kolos,Dmytro Baistriuchenko,Dmytro Baistriuchenko,4.0,Dmytro Baistriuchenko,1-3,4.0,1
+2021-04-25 02:25:00,Setka Cup,Oleksandr Gomilko,Roman Gnoevoy,Oleksandr Gomilko,3.5,Roman Gnoevoy,0-3,0.0,1
+2021-04-25 04:05:00,Setka Cup,Maksym Balakiriev,Mykola Polysynskyi,Maksym Balakiriev,5.0,Mykola Polysynskyi,1-3,0.0,1
+2021-04-25 07:30:00,Czech Liga Pro,Jan Berger,Vojtech Waldhauser,Jan Berger,3.75,Vojtech Waldhauser,2-3,0.0,1
+2021-04-25 05:50:00,TT Cup Ukraine,Anton Molochko,Volodymyr Plishylo,Anton Molochko,3.4,Anton Molochko,3-2,3.4,1
