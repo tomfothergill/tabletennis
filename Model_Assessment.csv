@@ -1413,6 +1413,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-05-10 02:55:00,Setka Cup,Maksym Balakiriev,Pavlo Volkov,Maksym Balakiriev,4.333,Pavlo Volkov,1-3,0.0,1
 2021-05-09 17:15:00,Setka Cup,Pavlo Kovalchuk,Sergey Yatsenko,Sergey Yatsenko,3.0,Sergey Yatsenko,1-3,3.0,1
 2021-05-10 08:30:00,Czech Liga Pro,Milan Kolar,Rotislav Hasmanda,Milan Kolar,3.0,Rotislav Hasmanda,1-3,0.0,1
+2021-05-10 20:30:00,Czech Liga Pro,Josef Obeslo Jnr,Zdenek Bilek,Josef Obeslo Jnr,3.4,Zdenek Bilek,1-3,0.0,1
 2021-05-10 09:25:00,TT Cup Ukraine,Maxim Nikolenko,Valeriy Melnik,Maxim Nikolenko,6.5,Valeriy Melnik,2-3,0.0,1
 2021-05-10 06:00:00,Setka Cup,Serhii Hot,Mykhailo Urban,Mykhailo Urban,6.5,Mykhailo Urban,1-3,6.5,1
 2021-05-10 10:00:00,Setka Cup,Oleg Gil,Mykhailo Urban,Mykhailo Urban,5.0,Mykhailo Urban,2-3,5.0,1
@@ -1421,7 +1422,19 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-05-10 16:50:00,Setka Cup,Mykhailo Kistechko,Yevhen Trunov,Yevhen Trunov,6.5,Mykhailo Kistechko,3-0,0.0,1
 2021-05-10 17:10:00,Setka Cup,Oleg Pereguda,Serhii Burdelnyi,Oleg Pereguda,4.333,Serhii Burdelnyi,1-3,0.0,1
 2021-05-10 18:50:00,Setka Cup,Andrii Melchenko,Vasily Kondratenko,Vasily Kondratenko,4.333,Andrii Melchenko,3-1,0.0,1
+2021-05-10 21:50:00,Setka Cup,Oleksandr Borysiuk,Bohdan Havryliuk,Bohdan Havryliuk,4.5,Oleksandr Borysiuk,3-0,0.0,1
 2021-05-10 11:20:00,TT Cup Ukraine,Eduard Rubtsov,Mikhail Presnyakov,Mikhail Presnyakov,4.333,Eduard Rubtsov,3-0,0.0,1
+2021-05-10 22:45:00,Liga Pro,Igor Mihaylov,Oleg Kutuzov,Igor Mihaylov,4.333,Oleg Kutuzov,1-3,0.0,1
 2021-05-10 18:45:00,Liga Pro,Yurii Merkushin,Ivan Afanasiev,Yurii Merkushin,3.0,Ivan Afanasiev,2-3,0.0,1
 2021-05-10 16:45:00,TT Cup Ukraine,Vitalii Protopopov,Dmitriy Belanchik,Dmitriy Belanchik,3.0,Vitalii Protopopov,3-0,0.0,1
 2021-05-10 18:50:00,TT Cup Ukraine,Prokhor Pugach,Serhii Kiilo,Serhii Kiilo,3.75,Serhii Kiilo,2-3,3.75,1
+2021-05-10 22:30:00,TT Cup Ukraine,Oleg Savenkov,Yaroslav Vorsuliak,Oleg Savenkov,4.333,Yaroslav Vorsuliak,0-3,0.0,1
+2021-05-10 22:05:00,TT Cup Ukraine,Stepan Nykyforuk,Ivan Fashchevskyi,Ivan Fashchevskyi,4.0,Ivan Fashchevskyi,1-3,4.0,1
+2021-05-11 06:00:00,Liga Pro,Andrey Duka,Pavel Vshivkov,Andrey Duka,5.0,Pavel Vshivkov,0-3,0.0,1
+2021-05-11 06:00:00,TT Star Series,David Prusa,Ondrej Bajger,David Prusa,4.333,Ondrej Bajger,0-3,0.0,1
+2021-05-11 08:15:00,TT Star Series,David Prusa,Tomas Martinko,David Prusa,4.333,Tomas Martinko,0-3,0.0,1
+2021-05-11 04:50:00,TT Cup Ukraine,Rodion Pirveli,Igor Sukovatiy,Rodion Pirveli,3.4,Igor Sukovatiy,2-3,0.0,1
+2021-05-11 04:55:00,TT Cup Ukraine,Viacheslav Kovalenko,Eduard Rubtsov,Viacheslav Kovalenko,4.0,Eduard Rubtsov,1-3,0.0,1
+2021-05-11 06:05:00,TT Cup Ukraine,Mikhail Presnyakov,Andrei Kostiuk,Mikhail Presnyakov,3.25,Mikhail Presnyakov,3-2,3.25,1
+2021-05-11 07:15:00,TT Cup Ukraine,Andrei Kostiuk,Eduard Rubtsov,Andrei Kostiuk,3.5,Eduard Rubtsov,0-3,0.0,1
+2021-05-11 07:05:00,TT Cup Ukraine,Roman Cherevko,Maxim Nikolenko,Maxim Nikolenko,6.5,Roman Cherevko,3-0,0.0,1
