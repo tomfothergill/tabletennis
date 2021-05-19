@@ -1637,13 +1637,19 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-05-19 02:55:00,Setka Cup,Ruslan Solomko,Oleksandr Liushnia,Oleksandr Liushnia,4.5,Oleksandr Liushnia,2-3,4.5,1
 2021-05-19 05:50:00,Setka Cup,Iulii Khomutovskyi,Vladyslav Stukalov,Iulii Khomutovskyi,4.0,Vladyslav Stukalov,2-3,0.0,1
 2021-05-19 10:20:00,Setka Cup,Oleksandr Durduka,Iulii Khomutovskyi,Iulii Khomutovskyi,4.5,Oleksandr Durduka,3-2,0.0,1
+2021-05-19 13:50:00,Setka Cup,Serhii Hot,Mykhailo Hlaholev,Mykhailo Hlaholev,5.0,Serhii Hot,3-0,0.0,1
 2021-05-19 10:00:00,Czech Liga Pro,Tibor Batthyany,Vladimir Havlicek,Vladimir Havlicek,3.0,Tibor Batthyany,3-1,0.0,1
+2021-05-19 15:55:00,Setka Cup,Yevhenii Sokoltsov,Serhii Pitsyk,Yevhenii Sokoltsov,3.25,Serhii Pitsyk,2-3,0.0,1
+2021-05-19 16:25:00,Setka Cup,Andrii Peretiatko,Maksym Balakiriev,Andrii Peretiatko,3.25,Maksym Balakiriev,0-3,0.0,1
+2021-05-19 17:55:00,Setka Cup,Serhii Khandetskyi,Andrii Peretiatko,Andrii Peretiatko,3.4,Serhii Khandetskyi,3-1,0.0,1
 2021-05-19 06:00:00,Setka Cup,Robert Jamrich,Josef Ruzicka,Josef Ruzicka,5.0,Robert Jamrich,3-2,0.0,1
+2021-05-19 19:00:00,Setka Cup,Jan Krames Jr.,Petr Dvorak,Petr Dvorak,3.4,Jan Krames Jr.,3-1,0.0,1
 2021-05-19 05:50:00,Setka Cup,Volodymyr Hera,Yaroslav Tebenko,Yaroslav Tebenko,3.75,Volodymyr Hera,3-1,0.0,1
 2021-05-19 06:50:00,Setka Cup,Volodymyr Hera,Volodymyr Okopnyi,Volodymyr Hera,5.0,Volodymyr Okopnyi,2-3,0.0,1
 2021-05-19 05:15:00,Setka Cup Women,Yevheniia Sozoniuk,Alina Novosad,Alina Novosad,5.0,Yevheniia Sozoniuk,3-1,0.0,1
 2021-05-19 07:15:00,Setka Cup Women,Yevheniia Sozoniuk,Svitlana Yureneva,Svitlana Yureneva,8.5,Yevheniia Sozoniuk,3-0,0.0,1
 2021-05-19 10:40:00,TT Cup Ukraine,Bohdan Kohut,Vitaliy Lyevshin,Bohdan Kohut,3.25,Vitaliy Lyevshin,1-3,0.0,1
+2021-05-19 13:00:00,TT Cup Ukraine,Vitaliy Lyevshin,Ivan Mai,Ivan Mai,4.333,Ivan Mai,1-3,4.333,1
 2021-05-19 09:35:00,TT Cup Ukraine,Alexander Lysak,Oleg Obidnyi,Alexander Lysak,4.0,Oleg Obidnyi,1-3,0.0,1
 2021-05-19 09:50:00,Setka Cup,Serhii Semenets,Vladyslav Stukalov,Vladyslav Stukalov,3.4,Serhii Semenets,3-1,0.0,1
 2021-05-19 09:10:00,Setka Cup,Oleksandr Ivchuk,Ilya Parnyvoda,Ilya Parnyvoda,4.333,Oleksandr Ivchuk,3-0,0.0,1
@@ -1652,3 +1658,5 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-05-19 09:55:00,Setka Cup,Dmitriy Pereyaslovskyi,Serhii Kuprykov,Dmitriy Pereyaslovskyi,4.333,Serhii Kuprykov,1-3,0.0,1
 2021-05-19 12:35:00,Setka Cup,Dmytro Rehotun,Ruslan Solomko,Dmytro Rehotun,3.75,Dmytro Rehotun,3-2,3.75,1
 2021-05-19 10:15:00,Setka Cup Women,Alina Novosad,Yevheniia Sozoniuk,Alina Novosad,4.5,Yevheniia Sozoniuk,0-3,0.0,1
+2021-05-19 18:00:00,Setka Cup,Yurii Kurishchenko,Dmytro Lazuryk,Dmytro Lazuryk,3.25,Dmytro Lazuryk,1-3,3.25,1
+2021-05-19 13:30:00,Czech Liga Pro,Vladimir Havlicek,Tibor Batthyany,Vladimir Havlicek,3.25,Vladimir Havlicek,3-2,3.25,1
