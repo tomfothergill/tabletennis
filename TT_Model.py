@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 17 18:58:02 2021
 
-@author: fothe
-"""
 
 import streamlit as st
 
@@ -54,7 +49,13 @@ source['y'] = 0
 
 total_profit_loss = round(source['Total_Profit'].iloc[-1], 2)
 number_of_bets = source.Time.count()
+
 p_l_perc = round((total_profit_loss/number_of_bets) * 100, 2)
+
+pre_change = tt_file[tt_file['Date'] < datetime.datetime(2021,4,5).date()]
+post_change = tt_file[tt_file['Date'] > datetime.datetime(2021,4,5).date()]
+
+profit_tf = (round(pre_change['Total_Profit'].iloc[-1], 2) * 10) + (round(post_change['Total_Profit'].iloc[-1], 2) * 15)
 #selection = alt.selection_multi(fields=['Total_Profit'])
 #cond_color = alt.condition(tt_file.Total_Profit < 0, 'red', 'green')
 
@@ -78,6 +79,7 @@ col2.subheader("Total Profit: " + str(total_profit_loss) + " units")
 #st.text(total_profit_loss)
 col2.subheader("Total bets: " + str(number_of_bets))
 col2.subheader("P/L: " + str(p_l_perc) + "%")
+col2.subheader("Rough Profit (TF):" + "£" + str(profit_tf))
 
 if st.button("Show all bets in range:"):
     source
