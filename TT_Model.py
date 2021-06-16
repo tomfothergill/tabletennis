@@ -55,9 +55,16 @@ p_l_perc = round((total_profit_loss/number_of_bets) * 100, 2)
 pre_change = source[source['Date'] < datetime.datetime(2021,4,5).date()]
 post_change = source[source['Date'] > datetime.datetime(2021,4,5).date()]
 
-pre_profit = round(pre_change['Total_Profit'].iloc[-1], 2)
-post_profit = round(post_change['Total_Profit'].iloc[-1], 2) - pre_profit
 
+try:
+    pre_profit = round(pre_change['Total_Profit'].iloc[-1], 2)
+except: 
+    pre_profit = 0
+
+try: 
+    post_profit = round(post_change['Total_Profit'].iloc[-1], 2) - pre_profit
+except:
+    post_profit = 0
 pre_profit_amt = pre_profit * 10
 post_profit_amt = post_profit * 15
 
