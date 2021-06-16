@@ -52,10 +52,18 @@ number_of_bets = source.Time.count()
 
 p_l_perc = round((total_profit_loss/number_of_bets) * 100, 2)
 
-pre_change = tt_file[tt_file['Date'] < datetime.datetime(2021,4,5).date()]
-post_change = tt_file[tt_file['Date'] > datetime.datetime(2021,4,5).date()]
+pre_change = source[source['Date'] < datetime.datetime(2021,4,5).date()]
+post_change = source[source['Date'] > datetime.datetime(2021,4,5).date()]
 
-profit_tf = (round(pre_change['Total_Profit'].iloc[-1], 2) * 10) + (round(post_change['Total_Profit'].iloc[-1], 2) * 15)
+pre_profit = round(pre_change['Total_Profit'].iloc[-1], 2)
+post_profit = round(post_change['Total_Profit'].iloc[-1], 2) - pre_profit
+
+pre_profit_amt = pre_profit * 10
+post_profit_amt = post_profit * 15
+
+
+
+profit_tf =  int(pre_profit_amt + post_profit_amt)
 #selection = alt.selection_multi(fields=['Total_Profit'])
 #cond_color = alt.condition(tt_file.Total_Profit < 0, 'red', 'green')
 
