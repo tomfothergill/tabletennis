@@ -3307,12 +3307,33 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-08-08 16:35:00,Setka Cup,Oleksandr Gomilko,Leonid Ivanov,Leonid Ivanov,3.25,Oleksandr Gomilko,3-0,0.0,1
 2021-08-08 13:20:00,TT Cup Ukraine,Iurii Prokhoruk,Mykolay Treschetka,Mykolay Treschetka,3.25,Iurii Prokhoruk,3-1,0.0,1
 2021-08-08 17:10:00,TT Cup Ukraine,Serhii Kubrak,Maksym Zhuravlov,Maksym Zhuravlov,3.4,Serhii Kubrak,3-1,0.0,1
+2021-08-09 19:30:00,Czech Liga Pro,Radek Rose,Zdenek Bilek,Radek Rose,3.75,Zdenek Bilek,0-3,0.0,1
 2021-08-09 04:30:00,Liga Pro,Pavel Vshivkov,Sergey Ovechkin,Pavel Vshivkov,3.75,Sergey Ovechkin,2-3,0.0,1
 2021-08-09 05:15:00,Liga Pro,Aleksandr Savinsky,Oleg Kharlakin,Oleg Kharlakin,5.5,Oleg Kharlakin,0-3,5.5,1
+2021-08-09 13:50:00,Setka Cup,Stanislav Nikolenko,Oleg Bindas,Stanislav Nikolenko,4.333,Oleg Bindas,2-3,0.0,1
+2021-08-09 15:20:00,Setka Cup,Stanislav Nikolenko,Nazar Mosiuk,Stanislav Nikolenko,3.4,Stanislav Nikolenko,3-1,3.4,1
+2021-08-09 16:50:00,Setka Cup,Stanislav Nikolenko,Yaroslav Kravets,Stanislav Nikolenko,3.25,Yaroslav Kravets,1-3,0.0,1
+2021-08-09 17:50:00,Setka Cup,Oleg Bindas,Serhii Rak,Serhii Rak,4.333,Oleg Bindas,3-0,0.0,1
+2021-08-09 18:50:00,Setka Cup,Yaroslav Kravets,Serhii Rak,Serhii Rak,7.0,Serhii Rak,2-3,7.0,1
 2021-08-09 06:10:00,Setka Cup Women,Lilia Andreeva,Nadiia Kovtun,Nadiia Kovtun,4.5,Lilia Andreeva,3-1,0.0,1
 2021-08-09 07:10:00,Setka Cup Women,Nadiia Kovtun,Nataliia Konovalova,Nataliia Konovalova,4.333,Nadiia Kovtun,3-0,0.0,1
 2021-08-09 11:40:00,Setka Cup Women,Lilia Andreeva,Nataliia Konovalova,Nataliia Konovalova,3.75,Lilia Andreeva,3-2,0.0,1
+2021-08-09 18:10:00,Setka Cup,Serhii Solomko,Volodymyr Melnykov,Serhii Solomko,3.5,Volodymyr Melnykov,0-3,0.0,1
+2021-08-09 15:15:00,Setka Cup,Ihor Emets,Oleksandr Kochetkov,Ihor Emets,3.4,Oleksandr Kochetkov,1-3,0.0,1
+2021-08-09 18:45:00,Setka Cup,Oleksandr Durduka,Ihor Emets,Ihor Emets,4.0,Ihor Emets,0-3,4.0,1
 2021-08-09 06:35:00,TT Cup Ukraine,Igor Sukovatiy,Ruslan Ivanov,Ruslan Ivanov,4.0,Igor Sukovatiy,3-1,0.0,1
+2021-08-09 19:20:00,Setka Cup,Dmytro Gudimenko,Yurii Kurishchenko,Yurii Kurishchenko,3.75,Yurii Kurishchenko,0-3,3.75,1
 2021-08-09 09:50:00,TT Cup Ukraine,Dmytro Lohosha,Mykolay Treschetka,Mykolay Treschetka,4.333,Dmytro Lohosha,3-2,0.0,1
 2021-08-09 11:00:00,TT Cup Ukraine,Mykolay Treschetka,Iurii Prokhoruk,Mykolay Treschetka,3.75,Iurii Prokhoruk,2-3,0.0,1
 2021-08-09 09:35:00,Setka Cup,Dmytro Rehotun,Oleksandr Lykhytskyi,Dmytro Rehotun,3.75,Dmytro Rehotun,3-1,3.75,1
+2021-08-09 15:30:00,Setka Cup,Petr Kubat,Martin Juhasz,Martin Juhasz,3.4,Petr Kubat,3-2,0.0,1
+2021-08-09 19:00:00,Setka Cup,Jakub Figel,Jan Holan,Jan Holan,8.5,Jakub Figel,3-0,0.0,1
+2021-08-09 16:30:00,Setka Cup,Lukas Adamec,Martin Juhasz,Martin Juhasz,3.75,Martin Juhasz,2-3,3.75,1
+2021-08-09 16:00:00,Challenger Ochsenhausen,Dillon Chambers,Florian Bluhm,Dillon Chambers,7.0,Florian Bluhm,1-3,0.0,1
+2021-08-09 14:15:00,TT Cup Ukraine,Eduard Rubtsov,Viacheslav Kovalenko,Viacheslav Kovalenko,4.333,Eduard Rubtsov,3-0,0.0,1
+2021-08-09 13:35:00,TT Cup Ukraine,Eduard Rubtsov,Roman Reznichenko,Roman Reznichenko,3.75,Roman Reznichenko,2-3,3.75,1
+2021-08-09 14:10:00,TT Cup Ukraine,Anton Veliiev,Roman Reznichenko,Roman Reznichenko,3.0,Roman Reznichenko,2-3,3.0,1
+2021-08-09 14:45:00,TT Cup Ukraine,Anton Veliiev,Ivan Kozyr,Ivan Kozyr,3.25,Anton Veliiev,3-0,0.0,1
+2021-08-09 15:20:00,TT Cup Ukraine,Anton Veliiev,Viacheslav Kovalenko,Viacheslav Kovalenko,3.75,Anton Veliiev,3-0,0.0,1
+2021-08-09 15:25:00,TT Cup Ukraine,Eduard Rubtsov,Ivan Kozyr,Ivan Kozyr,3.4,Eduard Rubtsov,3-2,0.0,1
+2021-08-09 17:40:00,TT Cup Ukraine,Serhii Kiilo,Ilya Yanishevskiy,Ilya Yanishevskiy,7.0,Serhii Kiilo,3-1,0.0,1
