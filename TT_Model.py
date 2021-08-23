@@ -73,7 +73,7 @@ except:
     
 pre_profit_amt = pre_profit * 10
 post_profit_amt = post_profit * 15
-post_20_profit_amt = post_20_profit *20
+post_20_profit_amt = post_20_profit *15
 
 
 
