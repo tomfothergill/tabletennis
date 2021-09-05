@@ -3844,6 +3844,8 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-09-05 06:00:00,Czech Liga Pro,Lukas Adamec,Jiri Pozarsky,Jiri Pozarsky,4.333,Lukas Adamec,3-0,0.0,1
 2021-09-05 05:05:00,Setka Cup,Evgeniy Khurtak,Serhii Dolyna,Serhii Dolyna,4.5,Evgeniy Khurtak,3-2,0.0,1
 2021-09-05 11:05:00,Setka Cup,Evgeniy Khurtak,Volodymyr Butko,Volodymyr Butko,3.25,Volodymyr Butko,0-3,3.25,1
+2021-09-05 13:00:00,Setka Cup Women,Nadiia Harmash,Alisa Dubrova,Alisa Dubrova,5.0,Nadiia Harmash,3-1,0.0,1
+2021-09-05 13:45:00,Setka Cup,Valerii Merzlikin,Oleksandr Ivchuk,Oleksandr Ivchuk,3.5,Valerii Merzlikin,3-0,0.0,1
 2021-09-05 09:15:00,Liga Pro,Alexander Frolov,Nikolay Zhurba,Alexander Frolov,4.0,Nikolay Zhurba,1-3,0.0,1
 2021-09-05 09:45:00,Liga Pro,Igor Kovalev,Alexander Frolov,Alexander Frolov,3.75,Igor Kovalev,3-1,0.0,1
 2021-09-05 07:00:00,Setka Cup Women,Alina Bohdanova,Mariia Kurishchenko,Alina Bohdanova,3.25,Mariia Kurishchenko,1-3,0.0,1
@@ -3853,3 +3855,10 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-09-05 10:30:00,Setka Cup Women,Mariya Voytekhova,Mariia Kurishchenko,Mariya Voytekhova,3.25,Mariya Voytekhova,3-0,3.25,1
 2021-09-05 11:30:00,Setka Cup Women,Svitlana Yureneva,Mariia Kurishchenko,Svitlana Yureneva,3.25,Mariia Kurishchenko,0-3,0.0,1
 2021-09-05 12:00:00,Setka Cup Women,Alina Bohdanova,Mariya Voytekhova,Mariya Voytekhova,3.5,Alina Bohdanova,3-1,0.0,1
+2021-09-05 14:55:00,TT Cup Ukraine,Vladislav Kalugin,Andrii Baklykov,Vladislav Kalugin,4.333,Andrii Baklykov,1-3,0.0,1
+2021-09-05 18:35:00,TT Cup Ukraine,Vasil Salivonchyk,Valerii Baklykov,Vasil Salivonchyk,4.333,Vasil Salivonchyk,3-1,4.333,1
+2021-09-05 15:30:00,Setka Cup,Jan Krames Jr.,Jan Hrncir,Jan Hrncir,4.333,Jan Krames Jr.,3-0,0.0,1
+2021-09-05 16:30:00,Liga Pro,Vladimir Mishakin,Andrey Shmakov,Andrey Shmakov,4.333,Vladimir Mishakin,3-1,0.0,1
+2021-09-05 17:45:00,TT Cup Ukraine,Yaroslav Ivanytsia,Oleksandr Yarovoi,Yaroslav Ivanytsia,3.25,Yaroslav Ivanytsia,3-0,3.25,1
+2021-09-05 15:45:00,TT Cup Ukraine,Petro Tsolik,Andrii Zeniuk,Andrii Zeniuk,4.333,Andrii Zeniuk,0-3,4.333,1
+2021-09-05 15:20:00,TT Cup Ukraine,Yaroslav Ivanytsia,Prokhor Pugach,Yaroslav Ivanytsia,3.25,Prokhor Pugach,0-3,0.0,1
