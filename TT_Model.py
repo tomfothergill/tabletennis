@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Sep 11 00:21:38 2021
+
+@author: fothe
+"""
+
 
 
 import streamlit as st
@@ -27,6 +34,10 @@ odds_val = st.sidebar.slider(label = "Price", min_value = min_price, max_value =
 
 from_date = st.date_input("From date", datetime.date(2021, 3, 15))
 to_date = st.date_input("To date", datetime.datetime.today())
+
+days_elapsed = (to_date - from_date).days
+days_to_end_of_year = (datetime.date(2022, 1, 1) - to_date).days
+
 
 
 col1.title("Model Performance")
@@ -81,6 +92,9 @@ profit_tf =  int(pre_profit_amt + post_profit_amt + post_20_profit_amt)
 #selection = alt.selection_multi(fields=['Total_Profit'])
 #cond_color = alt.condition(tt_file.Total_Profit < 0, 'red', 'green')
 
+eoy_proj = int(((profit_tf/days_elapsed)*days_to_end_of_year) + profit_tf)
+
+
 #test = alt.Predicate(1<2)
 
 base = alt.Chart(source)
@@ -101,7 +115,9 @@ col2.subheader("Total Profit: " + str(total_profit_loss) + " units")
 #st.text(total_profit_loss)
 col2.subheader("Total bets: " + str(number_of_bets))
 col2.subheader("P/L: " + str(p_l_perc) + "%")
-col2.subheader("Rough Profit (TF): " + "£" + str(profit_tf))
+col2.subheader("Profit (To Date): " + "£" + str(profit_tf))
+col2.subheader("Profit (End of year projection): " + "£" + str(eoy_proj))
+
 
 if st.button("Show all bets in range:"):
     source
