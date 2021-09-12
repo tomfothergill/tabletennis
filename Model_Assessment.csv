@@ -3972,6 +3972,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-09-11 15:25:00,TT Cup Ukraine,Oleksandr Yarovoi,Ihor Kuznetsov,Ihor Kuznetsov,4.5,Oleksandr Yarovoi,3-0,0.0,1
 2021-09-11 18:50:00,TT Cup Ukraine,Vadim Komar,Oleksandr Yarovoi,Oleksandr Yarovoi,3.75,Vadim Komar,3-0,0.0,1
 2021-09-12 07:00:00,Czech Liga Pro,Jiri Pozarsky,Jaroslav Prokupek,Jaroslav Prokupek,5.0,Jiri Pozarsky,3-2,0.0,1
+2021-09-12 18:00:00,Czech Liga Pro,Lubos Protiva,Josef Silhan,Josef Silhan,4.333,Josef Silhan,1-3,4.333,1
 2021-09-11 23:00:00,Liga Pro,Viktor Kalachev,Dmitry Ignatiev,Dmitry Ignatiev,3.25,Viktor Kalachev,3-1,0.0,1
 2021-09-12 08:30:00,TT Cup Ukraine,Roman Sukhomlyn,Vadim Shvidkiy,Roman Sukhomlyn,3.0,Vadim Shvidkiy,1-3,0.0,1
 2021-09-12 04:45:00,Liga Pro,Andrey Sadkov,Vladimir Vologzhanin,Vladimir Vologzhanin,3.75,Vladimir Vologzhanin,2-3,3.75,1
@@ -3981,7 +3982,15 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-09-12 11:00:00,Liga Pro,Vasily Shirshov,Oleg Kutuzov,Oleg Kutuzov,3.4,Oleg Kutuzov,1-3,3.4,1
 2021-09-12 09:15:00,Liga Pro,Georgiy Evglevskiy,Igor Poletaev,Igor Poletaev,3.4,Igor Poletaev,2-3,3.4,1
 2021-09-12 10:15:00,Liga Pro,Igor Poletaev,Anatoly Batalov,Anatoly Batalov,3.25,Igor Poletaev,3-2,0.0,1
+2021-09-12 16:30:00,Setka Cup,Sergii Skhabitskiy,Igor Koshkodan,Sergii Skhabitskiy,3.0,Igor Koshkodan,1-3,0.0,1
 2021-09-12 05:05:00,Setka Cup,Andrii Matiushenko,Ruslan Solomko,Ruslan Solomko,5.0,Ruslan Solomko,2-3,5.0,1
 2021-09-12 07:35:00,Setka Cup,Oleksandr Mishchenko,Oleksandr Lykhytskyi,Oleksandr Lykhytskyi,4.333,Oleksandr Lykhytskyi,2-3,4.333,1
 2021-09-12 11:05:00,Setka Cup,Andrii Matiushenko,Oleksandr Mishchenko,Andrii Matiushenko,3.75,Andrii Matiushenko,3-0,3.75,1
 2021-09-12 09:40:00,Setka Cup,Dmytro Gudimenko,Pavlo Babenko,Dmytro Gudimenko,3.0,Pavlo Babenko,1-3,0.0,1
+2021-09-12 13:45:00,Liga Pro,Anatoly Trushkin,Eduard Golovachev,Anatoly Trushkin,5.0,Anatoly Trushkin,3-2,5.0,1
+2021-09-12 17:30:00,Liga Pro,Aleksey Komarov,Anton Mohnachev,Aleksey Komarov,4.333,Anton Mohnachev,2-3,0.0,1
+2021-09-12 18:45:00,Liga Pro,Evgeny Kryuchkov,Bogdan Grebenyuk,Bogdan Grebenyuk,3.0,Evgeny Kryuchkov,3-1,0.0,1
+2021-09-12 14:40:00,Setka Cup Women,Marharyta Saltanovska,Kateryna Somova,Kateryna Somova,3.0,Kateryna Somova,0-3,3.0,1
+2021-09-12 16:40:00,Setka Cup Women,Alisa Dubrova,Kateryna Somova,Kateryna Somova,6.5,Kateryna Somova,1-3,6.5,1
+2021-09-12 17:40:00,Setka Cup Women,Alisa Dubrova,Marharyta Saltanovska,Marharyta Saltanovska,5.5,Alisa Dubrova,3-0,0.0,1
+2021-09-12 18:40:00,Setka Cup Women,Lilia Andreeva,Alisa Dubrova,Lilia Andreeva,8.5,Alisa Dubrova,2-3,0.0,1
