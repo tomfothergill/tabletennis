@@ -111,8 +111,8 @@ area = alt.Chart(source).mark_line(
 c1 = base.mark_rule(strokeDash = [10, 10], color = 'darkgrey').encode(y = 'y')    
     
 col1.altair_chart(area + c1, use_container_width = True)
-#col2.subheader("Total Profit: " + str(total_profit_loss) + " units")
-col2.metric("Total Profit: ", total_profit_loss)
+col2.subheader("Total Profit: " + str(total_profit_loss) + " units")
+#col2.metric("Total Profit: ", total_profit_loss)
 #st.text(total_profit_loss)
 col2.subheader("Total bets: " + str(number_of_bets))
 col2.subheader("P/L: " + str(p_l_perc) + "%")
