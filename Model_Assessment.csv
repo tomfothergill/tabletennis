@@ -4954,7 +4954,12 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-11-01 18:30:00,Liga Pro,Vasily Shirshov,Viktor Kalachev,Vasily Shirshov,3.75,Viktor Kalachev,2-3,0.0,1
 2021-11-02 08:30:00,Liga Pro,Pavel Khramkov,Ilya Novikov,Pavel Khramkov,3.5,Ilya Novikov,1-3,0.0,1
 2021-11-01 22:05:00,Setka Cup,Serhii Kuprykov,Volodymyr Hainiuk,Volodymyr Hainiuk,3.5,Volodymyr Hainiuk,2-3,3.5,1
+2021-11-02 16:20:00,Setka Cup,Vladyslav Sheremeta,Yaroslav Tebenko,Vladyslav Sheremeta,3.0,Vladyslav Sheremeta,3-0,3.0,1
+2021-11-02 16:00:00,Setka Cup,Serhii Fedorenko,Dmytro Kunchurov,Dmytro Kunchurov,3.25,Dmytro Kunchurov,2-3,3.25,1
+2021-11-02 15:10:00,Setka Cup,Oleksandr Zhyrnov,Andrii Skliarenko,Andrii Skliarenko,3.0,Oleksandr Zhyrnov,3-0,0.0,1
 2021-11-02 08:00:00,Czech Liga Pro,Vladimir Havlicek,Josef Belovsky,Josef Belovsky,4.333,Vladimir Havlicek,3-0,0.0,1
+2021-11-02 15:40:00,Setka Cup,Dmytro Lazuryk,Yaroslav Tkachenko,Yaroslav Tkachenko,3.25,Dmytro Lazuryk,3-2,0.0,1
+2021-11-02 17:20:00,Setka Cup,Oleh Volynets,Oleh Kuzyshyn,Oleh Volynets,3.0,Oleh Kuzyshyn,0-3,0.0,1
 2021-11-02 09:00:00,Czech Liga Pro,Jan Svoboda,Josef Belovsky,Josef Belovsky,4.333,Jan Svoboda,3-2,0.0,1
 2021-11-02 11:00:00,Czech Liga Pro,Milan Smrcek,Jiri Svec,Jiri Svec,4.5,Milan Smrcek,3-1,0.0,1
 2021-11-02 12:00:00,Czech Liga Pro,Jiri Svec,Milan Kolar,Jiri Svec,4.333,Milan Kolar,2-3,0.0,1
@@ -4968,3 +4973,4 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-11-02 10:40:00,Setka Cup,Vasily Kondratenko,Viktor Dushak,Viktor Dushak,3.5,Vasily Kondratenko,3-1,0.0,1
 2021-11-02 09:35:00,Setka Cup,Oleksandr Melashenko,Serhii Chuliukov,Serhii Chuliukov,3.0,Oleksandr Melashenko,3-2,0.0,1
 2021-11-02 12:20:00,Setka Cup,Dmytro Khairov,Andrii Dekhtiarenko,Dmytro Khairov,3.75,Andrii Dekhtiarenko,0-3,0.0,1
+2021-11-02 17:15:00,Liga Pro,Dmitry Bogdanov,Valery Kutin,Dmitry Bogdanov,4.333,Dmitry Bogdanov,3-1,4.333,1
