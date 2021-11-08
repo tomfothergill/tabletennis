@@ -116,8 +116,8 @@ col2.subheader("Total Profit: " + str(total_profit_loss) + " units")
 #st.text(total_profit_loss)
 col2.subheader("Total bets: " + str(number_of_bets))
 col2.subheader("P/L: " + str(p_l_perc) + "%")
-col2.subheader("Profit (To Date): " + "£" + str(profit_tf))
-col2.subheader("Profit (End of year projection): " + "£" + str(eoy_proj))
+#col2.subheader("Profit (To Date): " + "£" + str(profit_tf))
+#col2.subheader("Profit (End of year projection): " + "£" + str(eoy_proj))
 
 
 if st.button("Show all bets in range:"):
