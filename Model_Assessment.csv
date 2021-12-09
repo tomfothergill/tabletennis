@@ -5787,6 +5787,8 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-12-09 10:00:00,Setka Cup,Mykhailo Hlaholev,Bohdan Pyrtyk,Bohdan Pyrtyk,3.0,Mykhailo Hlaholev,3-1,0.0,1
 2021-12-09 10:30:00,Setka Cup,Serhii Darahan,Anatolii Nikolenko,Anatolii Nikolenko,4.333,Serhii Darahan,3-1,0.0,1
 2021-12-09 08:30:00,Setka Cup,Mykhailo Hlaholev,Anatolii Nikolenko,Mykhailo Hlaholev,5.0,Mykhailo Hlaholev,3-0,5.0,1
+2021-12-09 15:00:00,Setka Cup,David Brichacek,Josef Hondlik,Josef Hondlik,4.333,David Brichacek,3-0,0.0,1
+2021-12-09 16:00:00,Setka Cup,David Brichacek,Dominik Marasek,Dominik Marasek,3.75,David Brichacek,3-0,0.0,1
 2021-12-09 08:30:00,Setka Cup,Jan Krames Sr,Jonas Kulveit,Jonas Kulveit,4.333,Jan Krames Sr,3-1,0.0,1
 2021-12-09 08:15:00,Setka Cup,Serhii Solomko,Sergey Yatsenko,Serhii Solomko,3.5,Sergey Yatsenko,0-3,0.0,1
 2021-12-09 10:45:00,Setka Cup,Serhii Solomko,Leonid Dynaburg,Serhii Solomko,3.5,Leonid Dynaburg,0-3,0.0,1
@@ -5795,3 +5797,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-12-09 07:25:00,TT Cup Ukraine,Oleksandr Hainovskyi,Vasyl Aksenin,Oleksandr Hainovskyi,3.25,Vasyl Aksenin,0-3,0.0,1
 2021-12-09 07:20:00,Setka Cup,Roman Mazur,Vasyl Moshovkyi,Vasyl Moshovkyi,3.0,Roman Mazur,3-1,0.0,1
 2021-12-09 08:20:00,Setka Cup,Mykola Shyshkin,Kyrylo Tkachenko,Kyrylo Tkachenko,3.5,Mykola Shyshkin,3-0,0.0,1
+2021-12-09 16:10:00,Setka Cup,Dmytro Prokopenko,Oleg Kolivay,Dmytro Prokopenko,3.25,Oleg Kolivay,1-3,0.0,1
+2021-12-09 17:10:00,Setka Cup,Oleg Kolivay,Valentyn Lobas,Valentyn Lobas,4.333,Oleg Kolivay,3-2,0.0,1
+2021-12-09 19:20:00,TT Cup Ukraine,Andriy Chermenskyi,Dmytro Alekseenko,Dmytro Alekseenko,3.25,Andriy Chermenskyi,3-1,0.0,1
+2021-12-09 19:50:00,TT Cup Ukraine,Oleksandr Bondarchuk,Andriy Chermenskyi,Andriy Chermenskyi,4.5,Oleksandr Bondarchuk,3-1,0.0,1
