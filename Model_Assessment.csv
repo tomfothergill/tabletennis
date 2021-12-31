@@ -6229,8 +6229,14 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-12-30 14:35:00,TT Cup Ukraine,Nikolay Bondarenko,Borys Buriak,Borys Buriak,3.5,Nikolay Bondarenko,3-2,0.0,1
 2021-12-30 15:10:00,TT Cup Ukraine,Oleksandr Shchytka,Borys Buriak,Borys Buriak,5.0,Borys Buriak,2-3,5.0,1
 2021-12-30 15:15:00,TT Cup Ukraine,Nikolay Bondarenko,Yuriy Tarasov,Yuriy Tarasov,3.75,Nikolay Bondarenko,3-1,0.0,1
+2021-12-31 14:45:00,Liga Pro,Aleksandr Krotkov,Robert Agababyan,Aleksandr Krotkov,3.0,Robert Agababyan,1-3,0.0,1
 2021-12-31 06:50:00,Setka Cup,Kyrylo Tkachenko,Mykola Shyshkin,Kyrylo Tkachenko,3.75,Mykola Shyshkin,1-3,0.0,1
 2021-12-31 12:20:00,Setka Cup,Kyrylo Tkachenko,Denys Kvyk,Kyrylo Tkachenko,3.25,Denys Kvyk,1-3,0.0,1
+2021-12-31 17:50:00,Setka Cup,Mykhailo Kistechko,Volodymyr Kuzmych,Volodymyr Kuzmych,6.5,Mykhailo Kistechko,3-1,0.0,1
+2021-12-31 19:50:00,Setka Cup,Volodymyr Kuzmych,Roman Torba,Volodymyr Kuzmych,3.75,Roman Torba,0-3,0.0,1
+2021-12-31 18:05:00,Setka Cup,Serhii Sokolov,Leonid Ivanov,Serhii Sokolov,3.25,Leonid Ivanov,0-3,0.0,1
+2021-12-31 19:00:00,Setka Cup,Mykhailo Hlaholev,Bohdan Pyrtyk,Bohdan Pyrtyk,4.333,Bohdan Pyrtyk,1-3,4.333,1
+2021-12-31 19:30:00,Setka Cup,Rostyslav Fylypiv,Mykola Kulynych,Rostyslav Fylypiv,3.75,Rostyslav Fylypiv,3-1,3.75,1
 2021-12-31 06:40:00,TT Cup Ukraine,Mihail Sokur,Yevhenii Holoborodko,Yevhenii Holoborodko,3.75,Mihail Sokur,3-0,0.0,1
 2021-12-31 07:50:00,TT Cup Ukraine,Serhii Gergeliuk,Yevhenii Holoborodko,Yevhenii Holoborodko,4.5,Serhii Gergeliuk,3-1,0.0,1
 2021-12-31 09:00:00,TT Cup Ukraine,Sergey Zazimko,Yevhenii Holoborodko,Yevhenii Holoborodko,4.333,Sergey Zazimko,3-1,0.0,1
@@ -6240,3 +6246,6 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2021-12-31 10:10:00,Setka Cup,Vitalii Mukhin,Anatolii Kostenko,Anatolii Kostenko,4.5,Vitalii Mukhin,3-1,0.0,1
 2021-12-31 09:20:00,Setka Cup,Roman Zholubak,Yevhenii Honchar,Yevhenii Honchar,3.75,Yevhenii Honchar,0-3,3.75,1
 2021-12-31 10:50:00,Setka Cup,Roman Zholubak,Vladimir Chornobab,Vladimir Chornobab,4.333,Roman Zholubak,3-0,0.0,1
+2021-12-31 14:05:00,TT Cup Ukraine,Ruslan Dereha,Oleksandr Yarovoi,Ruslan Dereha,5.5,Ruslan Dereha,3-1,5.5,1
+2021-12-31 20:00:00,TT Cup Ukraine,Oleksandr Shchytka,Ihor Kuznetsov,Oleksandr Shchytka,3.5,Oleksandr Shchytka,3-1,3.5,1
+2021-12-31 17:00:00,TT Cup Ukraine,Vitalii Vovk,Oleksandr Kovalov,Oleksandr Kovalov,5.0,Vitalii Vovk,3-2,0.0,1
