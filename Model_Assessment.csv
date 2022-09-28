@@ -8366,7 +8366,7 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2022-09-27 01:00:00,Setka Cup,Roman Torba,Denys Pesternikov,Roman Torba,4.0,Denys Pesternikov,1-3,0.0,1
 2022-09-27 03:00:00,Setka Cup,Denys Pesternikov,Serhii Rak,Serhii Rak,4.333,Denys Pesternikov,3-0,0.0,1
 2022-09-27 05:25:00,Setka Cup,Volodymyr Chulanov,Rostyslav Fylypiv,Rostyslav Fylypiv,3.75,Volodymyr Chulanov,3-0,0.0,1
-2022-09-27 06:25:00,Setka Cup,Rostyslav Fylypiv,Denys Maltsev,Denys Maltsev,3.25,Rostyslav Fylypiv,3-1,0.0,1
+2022-09-27 06:25:00,Setka Cup,Rostyslav Fylypiv,Denys Maltsev,Denys Maltsev,3.25,No Result,0-0,0.0,1
 2022-09-27 08:55:00,Setka Cup,Mykola Kulynych,Volodymyr Chulanov,Mykola Kulynych,3.5,Volodymyr Chulanov,0-3,0.0,1
 2022-09-27 05:05:00,Setka Cup,Serhii Bohach,Vadim Reva,Serhii Bohach,3.75,Serhii Bohach,3-1,3.75,1
 2022-09-27 14:35:00,Setka Cup,Aleksey Krutko,Anton Molochko,Anton Molochko,3.0,Anton Molochko,1-3,3.0,1
@@ -8375,4 +8375,9 @@ Time,League,Player_1,Player_2,Bet,Price,Winner,Scoreline,Returns,Unit_Stake
 2022-09-27 08:25:00,TT Cup,Richard Marsik,Vaclav Hejda Jr,Richard Marsik,3.5,Richard Marsik,3-2,3.5,1
 2022-09-27 20:00:00,Setka Cup,Bohdan Chaikovskyi,Andrii Nakliutskyi,Bohdan Chaikovskyi,3.25,Bohdan Chaikovskyi,3-2,3.25,1
 2022-09-27 19:25:00,TT Cup,David Prusa,Tomas Vorisek,Tomas Vorisek,3.75,David Prusa,3-0,0.0,1
+2022-09-28 09:10:00,Setka Cup,Rostyslav Fylypiv,Volodymyr Chulanov,Rostyslav Fylypiv,4.0,Volodymyr Chulanov,0-3,0.0,1
+2022-09-28 12:10:00,Setka Cup,Rostyslav Fylypiv,Denys Maltsev,Denys Maltsev,3.5,Rostyslav Fylypiv,3-0,0.0,1
 2022-09-28 07:10:00,Setka Cup,Mykola Kulynych,Volodymyr Chulanov,Mykola Kulynych,4.333,Volodymyr Chulanov,1-3,0.0,1
+2022-09-28 08:15:00,Setka Cup,Ladislav Tuma,Jan Herink,Ladislav Tuma,3.25,Jan Herink,2-3,0.0,1
+2022-09-28 11:40:00,Setka Cup,Dmytro Kunchurov,Marat Yakubov,Marat Yakubov,3.4,Dmytro Kunchurov,3-0,0.0,1
+2022-09-28 08:55:00,Setka Cup,Yevhenii Honchar,Roman Cherevko,Yevhenii Honchar,3.0,Yevhenii Honchar,3-2,3.0,1
