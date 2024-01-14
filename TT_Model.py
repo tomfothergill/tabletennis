@@ -26,7 +26,7 @@ comps_list = list(tt_file.League.unique())
 min_price = float(tt_file.Price.min())
 max_price = float(tt_file.Price.max())
 
-col1, col2 = st.beta_columns([2, 1])
+col1, col2 = st.columns([2, 1])
 
 st.sidebar.title("Parameters")
 comp_val = st.sidebar.multiselect(label = "Tournament", options = comps_list, default = comps_list)
